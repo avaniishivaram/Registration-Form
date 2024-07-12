@@ -10,5 +10,5 @@ Simple registration form implemented using C#
 - Course Name [drop down]
 - Qualifications [checkbox]
 
-<img src= "https://github.com/user-attachments/assets/e389cd79-2ce1-4a65-b012-9004a0089aad" width="800" height="600">
+<img src= "https://github.com/user-attachments/assets/e389cd79-2ce1-4a65-b012-9004a0089aad" width="500" height="350">
 
